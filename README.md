@@ -1,6 +1,6 @@
 # Comandos git
 
-## Comando para inserir um diretorio
+## Inserir um repositorio no GitHub
 git init
 
 git add .
@@ -11,8 +11,10 @@ git branch -M main
 
 git remote add origin git@github.com:ViniciosRomano/GitComand.git
 
-## Comando de controle
+## Controle de alterações
 
 git status
 
 git log
+
+## Pegar um repositorio presente no GitHub
