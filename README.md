@@ -1,4 +1,5 @@
-##Comandos git
+#Comandos git
+
 git init
 git add .
 git commit -m "primeiro commit"
