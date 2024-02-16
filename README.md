@@ -34,3 +34,14 @@ git init
 git remote add origin git@github.com:{user}/{repository}.git
 
 git remote add origin https://github.com/{user}/{repository}.git
+
+## Ignorando arquivos
+Criar um arquivo .gitignore
+
+Conteudo da pasta:
+
+{pasta}
+
+{pasta}/*
+
+{arquivo}
