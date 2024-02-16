@@ -19,6 +19,8 @@ git status
 git log
 
 ## Pegar um repositorio presente no GitHub
+git init
+
 git clone {url}
 
 ## Configurar Email e User
