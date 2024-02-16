@@ -9,7 +9,9 @@ git commit -m "primeiro commit"
 
 git branch -M main
 
-git remote add origin git@github.com:ViniciosRomano/GitComand.git
+git remote add origin git@github.com:{user}/{repository}.git
+
+git remote add origin https://github.com/{user}/{repository}.git
 
 ## Controle de alterações
 git status
@@ -17,7 +19,7 @@ git status
 git log
 
 ## Pegar um repositorio presente no GitHub
-git clone {Url que deseja clonar}
+git clone {url}
 
 ## Configurar Email e User
 git config --global user.name "fiap"
