@@ -28,3 +28,9 @@ git config --global user.name "fiap"
 
 git config --global user.email "RM93018@fiap.com.br"
 
+## Adicionar o git em um repositorio existente
+git init
+
+git remote add origin git@github.com:{user}/{repository}.git
+
+git remote add origin https://github.com/{user}/{repository}.git
