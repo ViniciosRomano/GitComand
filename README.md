@@ -45,3 +45,5 @@ Conteudo da pasta:
 {pasta}/*
 
 {arquivo}
+
+Site para ignorar arquivos do java, ecplise, visualStudioCode https://www.toptal.com/developers/gitignore/
