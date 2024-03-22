@@ -13,7 +13,7 @@ git remote add origin git@github.com:{user}/{repository}.git
 
 git remote add origin https://github.com/{user}/{repository}.git
 
-git pull origin
+git push origin main
 
 ## Controle de alterações
 git status
